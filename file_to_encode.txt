@@ -1,0 +1,1 @@
+The Deserialization of JSON means the conversion of JSON objects into their respective Python objects.
